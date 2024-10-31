@@ -16,4 +16,5 @@ For Utilising Github API to identify Stockholm users with more than 100 follower
 
 #### Interesting Insights from the data
 <li> The most interesting insight was that mosre repos were pushed during office hours than non office hours</li>
+! [Insight Image](OfficeHours.png)
 
