@@ -20,7 +20,7 @@ For Utilising Github API to identify Stockholm users with more than 100 follower
 
 ### Ways to increase followers
 
-<li> On further analysis I found out that to increase followers, it is evident that most of the repos should be pushed between 3pm to 10pm</li>
+<li> On further analysis I found out that to increase followers, it is evident that most of the repos should be pushed between 3pm to 7pm</li>
 
 <img src=Timeday.png></img>
 
