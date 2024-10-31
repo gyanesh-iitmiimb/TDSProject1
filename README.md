@@ -24,7 +24,7 @@ For Utilising Github API to identify Stockholm users with more than 100 follower
 
 <img src=Timeday.png></img>
 
-<div>For more details go through <a href=https://github.com/gyanesh-iitmiimb/TDSProject1/blob/main/TDS_assignment.ipynb><h4>Notebook Link</h4></a></div>
+<h4>For more details go through <a href=https://github.com/gyanesh-iitmiimb/TDSProject1/blob/main/TDS_assignment.ipynb>Notebook Link</a></h4>
 
 <h3>Thank You!!!</h3>
 
